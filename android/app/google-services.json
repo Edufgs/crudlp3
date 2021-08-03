@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260222523268",
+    "project_id": "crudecom-dd4e1",
+    "storage_bucket": "crudecom-dd4e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260222523268:android:11d6a82cd90d2321a26fd1",
+        "android_client_info": {
+          "package_name": "com.example.crudlp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260222523268-496c3hp1fqlpvat6rdp3hlv54ienevvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8CFTqenn9Fk2hulS2NH7rLRJWQ5fXU6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260222523268-496c3hp1fqlpvat6rdp3hlv54ienevvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
