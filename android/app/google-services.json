@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "260222523268",
-    "project_id": "crudecom-dd4e1",
-    "storage_bucket": "crudecom-dd4e1.appspot.com"
+    "project_number": " ",
+    "project_id": " ",
+    "storage_bucket": " "
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:260222523268:android:11d6a82cd90d2321a26fd1",
+        "mobilesdk_app_id": " ",
         "android_client_info": {
-          "package_name": "com.example.crudlp3"
+          "package_name": " "
         }
       },
       "oauth_client": [
         {
-          "client_id": "260222523268-496c3hp1fqlpvat6rdp3hlv54ienevvf.apps.googleusercontent.com",
-          "client_type": 3
+          "client_id": " ",
+          "client_type": 
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB8CFTqenn9Fk2hulS2NH7rLRJWQ5fXU6g"
+          "current_key": " "
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "260222523268-496c3hp1fqlpvat6rdp3hlv54ienevvf.apps.googleusercontent.com",
-              "client_type": 3
+              "client_id": " ",
+              "client_type": 
             }
           ]
         }
